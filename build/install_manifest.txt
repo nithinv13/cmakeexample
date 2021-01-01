@@ -1,0 +1,2 @@
+/Users/nithinvenkatesh/Documents/RA/cmakeexample/install/lib/myapp
+/Users/nithinvenkatesh/Documents/RA/cmakeexample/install/include/hello.h
